@@ -203,6 +203,7 @@ body {
 .main-block__button_orange {
 	background: #ff7b47;
 	color: #fff;
+	margin-right: 10px;
 }
 .main-block__button_orange:hover {
 	background-color: #fff;
