@@ -250,6 +250,10 @@ body {
 }
 
 @media (max-width: 479px) {
+	.main-block__body {
+		padding: 115px 0px 160px 0px;
+	
+}
 	.main-block__title {
 		font-size: 42px;
 	}
